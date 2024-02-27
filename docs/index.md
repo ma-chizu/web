@@ -16,7 +16,7 @@ We present a series of "thick maps," visual digital representations that evokes 
 		</a>
 	</div>
 	<div class="gallery-item">
-		<a href="https://yohman.github.io/pfhp/households.html" target="_blank">
+		<a href="https://yohman.github.io/pfhp" target="_blank">
 			<img src="images/edo.jpg" alt="Edo Families">
 			<div class="caption">Edo Families</div>
 		</a>
